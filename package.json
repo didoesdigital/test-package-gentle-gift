@@ -1,0 +1,19 @@
+{
+  "name": "@didoesdigital/test-package-gentle-gift",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didoesdigital/test-package-gentle-gift.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/didoesdigital/test-package-gentle-gift/issues"
+  },
+  "homepage": "https://github.com/didoesdigital/test-package-gentle-gift#readme",
+  "description": ""
+}
